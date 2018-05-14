@@ -10,5 +10,5 @@ class Singleton {
             usuarios.add(Usuario("1936482489", "Fernando", "Alvarado","Profesor","01/12/1980",true))
         }
 
-    
+
 }
