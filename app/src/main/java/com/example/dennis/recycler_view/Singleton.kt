@@ -1,4 +1,4 @@
-package com.example.jorgecarrillo.debermoviles1
+package com.example.dennis.recycler_view
 
 class Singleton {
     companion object {
@@ -11,4 +11,4 @@ class Singleton {
         }
 
 
-}
+}}

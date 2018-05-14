@@ -1,4 +1,4 @@
-package com.example.jorgecarrillo.debermoviles1
+package com.example.dennis.recycler_view
 
 import java.util.*
 
